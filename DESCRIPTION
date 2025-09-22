@@ -3,7 +3,7 @@ Type: Package
 Title: Genome-wide assessment of differential translations with ribosome profiling data
 Version: 1.2.0
 Authors@R:
-    c(person("Zhengtao", "Xiao", email="zhengtao.xiao[at]xjtu.edu.cn",
+    c(person("Zhengtao", "Xiao", email="zhengtao.xiao@xjtu.edu.cn",
              role = c("aut","cre")),
       person("Qin", "Zou", role = "aut"),
       person("Yu", "Liu", role = "aut"),
